@@ -7,6 +7,10 @@ out/
 AviaBonusMile.iml
 _AviaBonusMile.iml
 *AviaBonusMile.iml
+*.idea/
+*_idea/
+*_.idea/
+
 
 
 ### Eclipse ###
